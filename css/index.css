@@ -1,0 +1,51 @@
+/* Navigation styles */
+.inline-block {
+  display: inline-block;
+  vertical-align: top;
+}
+.logo {
+  width: 23%;
+  padding: 1%;
+  text-align: center;
+}
+.logoImg {
+  float: left;
+}
+nav {
+  width: 72%;
+  padding: 1%;
+}
+nav ul {
+  float: right;
+}
+.heroImg {
+  height: 600px;
+  padding: 25px;
+  float: center;
+  background-color:cornsilk;
+}
+.content {
+  width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+footer {
+  background-color: #373738;
+  padding: 20px 0px;
+}
+footer ul {
+  display: inline-block;
+  vertical-align: top;
+}
+footer ul li {
+  padding: 5px 10px;
+  color: #fff;
+}
+
+
+
+
+
+
+
+
